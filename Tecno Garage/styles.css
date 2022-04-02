@@ -151,15 +151,10 @@ header .container{
                     margin: 0.3rem;
                 }
                     nav .menu ul li a{
+                        color: var(--base-color);
                         transition: color 100ms;
                     }
                     nav .menu ul li a:hover{
-                        color: var(--highlight);
-                    }
-                    nav .menu ul li a:visited{
-                        color: var(--base-color);
-                    }
-                    nav .menu ul li a:visited:hover{
                         color: var(--highlight);
                     }
 
