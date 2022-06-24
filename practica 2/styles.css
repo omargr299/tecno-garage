@@ -1,0 +1,26 @@
+body{
+    background-color: #FFE999;
+}
+
+p,h2,label,input,textarea,select{
+    font-family: Verdana;
+}
+
+p{
+    color: red;
+    font-size: 13px;
+}
+
+h2,label,input,textarea,select{
+    text-align: center;
+}
+
+label,input,textarea,select{
+    font-size: 20px;
+}
+
+.descEsc{
+    font-size: 15px;
+    color: sienna;
+}
+
